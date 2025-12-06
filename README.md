@@ -31,11 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+<img width="1638" height="908" alt="image" src="https://github.com/user-attachments/assets/4d3b3acc-4438-4c32-a7c9-def1fdb412bf" />
+
 
 ### Output:
-<img width="1193" height="841" alt="image" src="https://github.com/user-attachments/assets/64da5fe4-e9f3-4f4e-9693-43ba323aeb01" />
+<img width="1423" height="1004" alt="image" src="https://github.com/user-attachments/assets/605bdb2a-8532-4375-b849-27b4134ca0b2" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f6c7da2-c479-4aa6-8a88-23c9d21e873a" />
 
 
 
